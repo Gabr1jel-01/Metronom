@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Metronom/
 
 # Spyder project settings
 .spyderproject
